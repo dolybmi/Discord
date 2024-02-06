@@ -31,7 +31,7 @@ client.on('ready', async () => {
     .setDetails(`⌣⌣`)
   
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/966134238481088582/1204275410423119952/Untitled59_20240205203956.png?ex=65d423e0&is=65c1aee0&hm=2b32f3efa538bab0d846986cb8ff978fd08c8fc13b7e38d942ada932d5d347e4&') //You can put links in tenor or discord and etc.
-    .setAssetsLargeText('hina') //Text when you hover the Large image
+    .setAssetsLargeText('◡◡   dαytime   stαr     ݈݈ ᧆ') //Text when you hover the Large image
     .setAssetsSmallImage('https://cdn.discordapp.com/attachments/966134238481088582/1204277455234404473/Untitled60_20240205230828.png?ex=65d425c7&is=65c1b0c7&hm=cf5408740317882ab03e761db68b082b6eed8095334b59b943e324c470515400&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('mayoi') //Text when you hover the Small image
     .addButton('𐂯ྀི', 'https://youtu.be/TRKbbRmKFFE?si=smnYLaCN5mv9r75S')
