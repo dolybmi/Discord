@@ -26,7 +26,7 @@ client.on('ready', async () => {
     .setApplicationId('1204271221202747412')
     .setType('STREAMING')
     .setURL('https://www.twitch.tv/developer') //Must be a youtube video link 
-    .setState('Ⳋ᧙')
+    .setState('𝒔𝒘𝒆𝒆𝒕  𝒃𝒂𝒌𝒆𝒓𝒚')
     .setName('𝒔𝒘𝒆𝒆𝒕  𝒃𝒂𝒌𝒆𝒓𝒚')
     .setDetails(`𝒔𝒘𝒆𝒆𝒕  𝒃𝒂𝒌𝒆𝒓𝒚`)
     .setStartTimestamp(Date.now())
