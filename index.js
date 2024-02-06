@@ -28,7 +28,7 @@ client.on('ready', async () => {
     .setURL('https://www.twitch.tv/developer') //Must be a youtube video link 
     .setState('𝒔𝒘𝒆𝒆𝒕  𝒃𝒂𝒌𝒆𝒓𝒚')
     .setName('𝒔𝒘𝒆𝒆𝒕  𝒃𝒂𝒌𝒆𝒓𝒚')
-    .setDetails(`𝒔𝒘𝒆𝒆𝒕 𝒃𝒂𝒌𝒆𝒓𝒚`)
+    .setDetails(`⌣⌣`)
   
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/966134238481088582/1204275410423119952/Untitled59_20240205203956.png?ex=65d423e0&is=65c1aee0&hm=2b32f3efa538bab0d846986cb8ff978fd08c8fc13b7e38d942ada932d5d347e4&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('hina') //Text when you hover the Large image
