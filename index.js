@@ -26,7 +26,7 @@ client.on('ready', async () => {
     .setAssetsLargeText('𝗒𝗈𝗎  𝗮𝗻𝗱   𝗆𝖾   𝗒𝗈𝗎  𝗮𝗻𝗱  𝗆𝖾') //Text when you hover the Large image
     .setAssetsSmallImage('https://cdn.discordapp.com/attachments/966134238481088582/1204589067946430474/Untitled77_20240206194630.png?ex=65d547fd&is=65c2d2fd&hm=d4c3020edeae8b46cec1b59c796802801e228b10c0bd6fb4f5f10280a716e2d8&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('mayoi') //Text when you hover the Small image
-    .addButton('𐂯ྀི', 'https://rentry.co/dolybmi')
+    .addButton('𐂯ྀི', 'https://rentry.co/mayoibmi')
     
 
   client.user.setActivity(r);
