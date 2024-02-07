@@ -23,7 +23,7 @@ client.on('ready', async () => {
     .setDetails(` ⏜   ུ ︵𖧁୧︵   ུ⏜   `)
   
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1204618514191753257/1204631405053743165/IMG_2891.gif?ex=65d56f6b&is=65c2fa6b&hm=4de7ef69fb77f501527302018e1167f98f06e9bbe832e4d1a6d8e6d778bf8d11&') //You can put links in tenor or discord and etc.
-    .setAssetsLargeText('𝗒𝗈𝗎  𝗮𝗻𝗱   𝗆𝖾   𝗒𝗈𝗎  𝗮𝗻𝗱  𝗆𝖾') //Text when you hover the Large image
+    .setAssetsLargeText('チョコ la ta ta ta ta') //Text when you hover the Large image
     .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1204618514191753257/1204635178501279884/Untitled90_20240206224753.png?ex=65d572ef&is=65c2fdef&hm=43a703f8d004101199a8ef9645b38beac7ab99ef1e3684e33c27fe04e26ab21e&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('mayoi') //Text when you hover the Small image
     .addButton('𐂯ྀི', 'https://rentry.co/mayoibmi')
